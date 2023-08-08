@@ -1,1 +1,1 @@
-"# Amplify Project" 
+# Amplify Project
